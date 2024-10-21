@@ -169,6 +169,7 @@ div:not(:last-child) {
    border-top: 0.125rem solid #a5d9e8;
    border-bottom: 0.125rem solid #a5d9e8;
    display: flex;
+   flex-direction: column;
    flex-wrap: wrap;
    gap: 1.5rem;
 }
